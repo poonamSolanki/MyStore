@@ -25,5 +25,14 @@ Redux Toolkit – State management for cart and user authentication.
 
 ![image](https://github.com/user-attachments/assets/5bb8c24d-540d-44a8-9326-c6f9bbf12908)
 
+![image](https://github.com/user-attachments/assets/c634705e-3ef3-4963-92d0-06215c069e93)
+
+![image](https://github.com/user-attachments/assets/e14457f8-0bf4-44d2-b1a9-540927bccb3c)
+
+![image](https://github.com/user-attachments/assets/d877315f-ccdb-49ac-a7d8-33888fce7334)
+
+
+
+
 
 

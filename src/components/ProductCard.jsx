@@ -9,7 +9,7 @@ const ProductCard = ({product}) => {
     const dispatch = useDispatch()
     const handleAddToCart = (e, product) => {
         e.stopPropagation(); 
-        e.p
+        e.preventDefault();
         dispatch(addToCart(product));
         alert("Product added to cart successfully!");
     }
